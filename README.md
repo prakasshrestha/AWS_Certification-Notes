@@ -11,3 +11,5 @@ These notes are created solely for my personal study and reference purposes.
 このリポジトリには、AWS認定試験のための私的なノートをまとめています。
 内容は ChatGPT やその他の AI ツールを使用して作成しており、誤りや不完全な情報が含まれる可能性があります。
 これらのノートは、あくまで個人的な学習・参考用として作成したものです。
+
+aws exam question
